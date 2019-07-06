@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/williams-portfolio/static/css/main.2cce8147.chunk.css",
+    "main.js": "/williams-portfolio/static/js/main.cb781e99.chunk.js",
+    "main.js.map": "/williams-portfolio/static/js/main.cb781e99.chunk.js.map",
+    "runtime~main.js": "/williams-portfolio/static/js/runtime~main.ac8f74f2.js",
+    "runtime~main.js.map": "/williams-portfolio/static/js/runtime~main.ac8f74f2.js.map",
+    "static/js/2.b41502e9.chunk.js": "/williams-portfolio/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/williams-portfolio/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/williams-portfolio/index.html",
+    "precache-manifest.e6c59dbc10a7a5573146ee3dcfe82150.js": "/williams-portfolio/precache-manifest.e6c59dbc10a7a5573146ee3dcfe82150.js",
+    "service-worker.js": "/williams-portfolio/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/williams-portfolio/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/williams-portfolio/static/media/logo.5d5d9eef.svg"
+  }
+}
