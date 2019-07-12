@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Modules installed and Command
+
+react-router-dom `npm install --save react-router-dom`
+gh-pages `npm install gh-pages --save-dev`
+@material-ui/core `npm install @material-ui/core`
+
+
 ## Available Scripts
 
 In the project directory, you can run:
