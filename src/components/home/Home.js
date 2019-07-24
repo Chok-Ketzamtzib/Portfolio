@@ -6,12 +6,13 @@ import './home.css';
 class Home extends Component {
     render() {
         return (
-            <div className="page-body home">
-                <h1 className="welcome-header">Event Planning {"&"} Design
+            <div className="home">
+                <img className="home-icon" src='img/bulldog_bolt.jpg'></img>
+                <h1 className="welcome-header">William J. Wakefield
                 </h1> 
-                <h2 className="welcome-header">Weddings | Personal Events 
+                <h2 className="welcome-header">----------------------------- 
                 </h2> 
-                <h2 className="welcome-header"> Conventions | International Events
+                <h2> Applied Mathematics {"&"} Computer Science @ Kettering University
                 </h2>
                 <Link className="button-link" to="/services">
                     <Button variant="contained" color="primary">

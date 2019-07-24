@@ -10,12 +10,12 @@ class NavBar extends Component {
                         <Link to="/" className="home-link">
                             <img className="logo-icon" src='img/se_logo.svg'></img>
                             </Link>
-                        <Link to="/" className="home-link">Shaddai Events</Link>
+                        <Link to="/" className="home-link">William Wakefield</Link>
                         </div>
-                    <div className="right-nav">
-                        <Link to="/services" className="nav-link">Services</Link>
+                    <div className="right-nav"> 
                         <Link to="/portfolio" className="nav-link">Portfolio</Link>
                         <Link to="/contact" className="nav-link">Contact</Link>
+                        <Link to="/services" className="nav-link">About</Link>
                         </div>   
                     </div>
                 </div>
