@@ -6,7 +6,7 @@ import NavBar from "./components/nav/NavBar";
 import Home from "./components/home/Home";
 import Contact from "./components/contact/Contact";
 import Portfolio from "./components/portfolio/Portfolio";
-import Services from "./components/services/Services";
+import About from "./components/about/About";
 
 function App() {
   return (
@@ -16,7 +16,7 @@ function App() {
           <Route exact path="/" component={Home} />
           <Route exact path="/contact" component={Contact} />
           <Route exact path="/portfolio" component={Portfolio} />
-          <Route exact path="/services" component={Services} />
+          <Route exact path="/about" component={About} />
         </div>
       </Router>
   );

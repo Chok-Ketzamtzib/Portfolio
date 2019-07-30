@@ -2,7 +2,7 @@
 
 .nav-container {
     color: white;
-    background-color: red;
+    background-color:red;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -14,8 +14,9 @@
     align-items: center;
     width: 100%;
     max-width: 1000px;
-    height: 50px;
+    height: 100px;
     font-family: 'Roboto' sans-serif;
+    text-transform: uppercase;
     padding: 0 1rem;
 }
 .left-nav{
@@ -42,7 +43,7 @@
     padding: 0 0 0 1rem;
 }
 .logo-icon {
-    height: 34px;
+    height: 36px;
     padding: 0 1rem 0 0;  
 }
 
