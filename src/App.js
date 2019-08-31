@@ -5,7 +5,7 @@ import './App.css';
 import NavBar from "./components/nav/NavBar";
 import Home from "./components/home/Home";
 import Contact from "./components/contact/Contact";
-import Portfolio from "./components/portfolio/Portfolio";
+import Projects from "./components/projects/Projects";
 import About from "./components/about/About";
 
 function App() {
@@ -15,7 +15,7 @@ function App() {
           <NavBar />
           <Route exact path="/" component={Home} />
           <Route exact path="/contact" component={Contact} />
-          <Route exact path="/portfolio" component={Portfolio} />
+          <Route exact path="/portfolio" component={Projects} />
           <Route exact path="/about" component={About} />
         </div>
       </Router>

@@ -13,7 +13,7 @@ class NavBar extends Component {
                             <Link to="/" className="home-link">William  Wakefield</Link>
                         </div>
                         <div className="right-nav"> 
-                            <Link to="/portfolio" className="nav-link">Portfolio</Link>
+                            <Link to="/portfolio" className="nav-link">Projects</Link>
                             <Link to="/contact" className="nav-link">Contact</Link>
                             <Link to="/about" className="nav-link">About</Link>
                         </div>   
