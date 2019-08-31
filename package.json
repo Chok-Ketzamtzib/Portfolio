@@ -2,7 +2,7 @@
   "name": "williams-portfolio",
   "version": "0.1.0",
   "private": false,
-  "homepage": "http://chok-ketzamtzib.github.io/Portfolio",
+  "homepage": "http://chok-ketzamtzib.github.io",
   "dependencies": {
     "@material-ui/core": "^4.2.0",
     "react": "^16.8.6",
